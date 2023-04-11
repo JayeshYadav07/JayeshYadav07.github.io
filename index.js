@@ -35,12 +35,6 @@ window.onscroll = function () {
     }
 };
 
-// GitHubCalendar(".calendar", "JayeshYadav07", {
-//     responsive: true,
-//     global_stats: false,
-//     tooltips: true,
-// });
-
 document.getElementById("resume-button-1").onclick = () => {
     window.open("./images/Jayesh_Yadav_Resume.pdf");
 };
