@@ -20,7 +20,7 @@ function typeWriter() {
         setTimeout(typeWriter, speed);
     }
 }
-
+new GitHubCalendar(".calendar", "JayeshYadav07");
 var myNav = document.getElementById("nav-menu");
 var myNav2 = document.getElementById("main");
 window.onscroll = function () {
