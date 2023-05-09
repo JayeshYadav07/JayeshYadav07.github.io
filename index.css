@@ -28,7 +28,8 @@ body{
     border: 2px solid #f51cb3;
   }
   .nav-colored {
-    background-color:  #340B26;
+    /* background-color:  #340B26; */
+    background-color: #67aec1;
     width: 100%;
     z-index: 2;
   }
@@ -40,7 +41,9 @@ body{
   }
   
   .name {
-    color: #f51cb3;
+    /* color: #f51cb3; */
+    /* color: #67aeca; */
+    color: white;
     font-size: larger;
   }
   
