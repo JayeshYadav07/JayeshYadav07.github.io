@@ -1,6 +1,6 @@
 let i = 0;
 let txt = "Full Stack Developer.";
-let speed = 85;
+let speed = 125;
 
 typeWriter();
 

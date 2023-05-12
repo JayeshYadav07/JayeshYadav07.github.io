@@ -84,8 +84,9 @@ body {
 
 #user-detail-name {
   width: 100%;
-  font-size: 50px;
+  font-size: 60px;
   font-weight: 700;
+  margin:30px 0 50px 0px !important;
 }
 
 
@@ -102,6 +103,7 @@ hr {
   color: #0ef;
   font-size: 40px;
   font-weight: 500;
+  margin-top: -10px !important;
 }
 
 
@@ -453,7 +455,6 @@ hr {
 
   #home {
     flex-direction: column;
-    padding-left: 60px;
     margin: auto;
     text-align: center;
     justify-content: center;
@@ -491,4 +492,7 @@ hr {
   #width {
     margin: 5%;
   }
+}
+#min-height-c{
+  min-height: fit-content !important;
 }
