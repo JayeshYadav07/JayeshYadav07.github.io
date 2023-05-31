@@ -39,11 +39,11 @@ GitHubCalendar(".calendar", "JayeshYadav07", {
 });
 
 document.getElementById("resume-button-1").onclick = () => {
-    window.open("./images/Jayesh_Yadav_Resume.pdf");
+    window.open("./images/Jayesh-Yadav-Resume.pdf");
 };
 
 document.getElementById("resume-button-2").onclick = () => {
-    window.open("./images/Jayesh_Yadav_Resume.pdf");
+    window.open("./images/Jayesh-Yadav-Resume.pdf");
 };
 
 function openNav() {
